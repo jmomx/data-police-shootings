@@ -1,3 +1,17 @@
+# How to run my notebook 
+
+Install jupyter:
+
+`pip3 install jupyter`
+
+Then run:
+
+`jupyter notebook`
+
+If you have issues with the Demo Notebook, click 'Restart Kernel and Run All Cells'
+
+____
+
 Download the data: https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv
 
 [This data is published under an [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)]
